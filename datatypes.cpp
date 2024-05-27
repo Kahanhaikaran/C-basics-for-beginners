@@ -20,19 +20,19 @@ int main() {
 
    char grades = 'A';
 
-   cout << grades;
+   //cout << grades;
 
    //boolean (true or false)
 
    bool pass = false;
 
-   cout << pass;
+   //cout << pass;
 
    //string (objects that represents a sequence of text)
 
    string name = "Karan";
    string day = "Monday";
-   string address = "165 JBP MP"
-   //cout << "Hello" << name;
+   string address = "165 JBP MP";
+   cout << "Hello " << name;
    return 0;
 }
