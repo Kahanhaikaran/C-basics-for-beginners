@@ -2,14 +2,14 @@
 using namespace std;
 
 int main() {
-  //integer (whole number)
-  int age = 21;
-  int year = 2024;
-  int  days = 7;
+   //integer (whole number)
+   int age = 21;
+   int year = 2024;
+   int  days = 7;
 
-  //cout << age << '\n' << year << '\n' << days ;
+   //cout << age << '\n' << year << '\n' << days ;
 
-  //double (number including decimal)
+   //double (number including decimal)
    double price = 10.99;
    double petrol = 90.99;
    double temperature = 25.1;
